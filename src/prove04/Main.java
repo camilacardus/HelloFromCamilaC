@@ -6,6 +6,7 @@ public class Main {
         Main Hello = new Main();
         Hello.output();
         Hello.gabrielSaysHi();
+        Hello.michaelSaysHi();
     }
 
     public void output() {
@@ -14,5 +15,9 @@ public class Main {
 
     public void gabrielSaysHi() {
         System.out.println("Good job here!");
+    }
+
+    public void michaelSaysHi() {
+        System.out.println("Hello Camila, my name is A. Michael Sierra.");
     }
 }
