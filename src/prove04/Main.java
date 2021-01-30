@@ -7,6 +7,7 @@ public class Main {
         Hello.output();
         Hello.gabrielSaysHi();
         Hello.michaelSaysHi();
+        Hello.maximilianoSaysHi();
     }
 
     public void output() {
@@ -20,4 +21,7 @@ public class Main {
     public void michaelSaysHi() {
         System.out.println("Hello Camila, my name is A. Michael Sierra.");
     }
+
+    public void maximilianoSaysHi() { System.out.println("Hello Camila, my name is Maximiliano Bustios"); }
 }
+
